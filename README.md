@@ -6,7 +6,7 @@ An interactive web-based game that uses machine learning algorithms to guess ani
 
 ## 🚀 \[Play the Live Game](https://formertriton.github.io/animal-guesser-ml/)
 
-\## Features
+## Features
 
 
 
