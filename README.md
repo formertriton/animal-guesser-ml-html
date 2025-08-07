@@ -4,7 +4,7 @@
 
 An interactive web-based game that uses machine learning algorithms to guess animals through strategic yes/no questions. The AI learns from every game session to improve future performance.
 
-## 🚀 \[Play the Live Game](https://formertriton.github.io/animal-guesser-ml/)
+## 🚀 \[Play the Live Game]([https://formertriton.github.io/animal-guesser-ml/](https://formertriton.github.io/animal-guesser-ml-html/))
 
 ## Features
 
@@ -32,3 +32,5 @@ An interactive web-based game that uses machine learning algorithms to guess ani
 5. Improves question selection for future games
 
 Built as a portfolio project demonstrating machine learning concepts in web applications.
+
+<img width="583" height="553" alt="Screenshot 2025-08-06 214313" src="https://github.com/user-attachments/assets/4325cf67-ceed-4a33-922d-4aa9d0e1943b" />
